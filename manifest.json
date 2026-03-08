@@ -1,0 +1,17 @@
+{
+  "name": "XOLƎRIƆ",
+  "short_name": "XOLƎRIƆ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#131314",
+  "theme_color": "#131314",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/7tD0Kn5K/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
